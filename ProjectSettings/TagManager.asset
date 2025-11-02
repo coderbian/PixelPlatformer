@@ -42,10 +42,10 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
+  - name: Background
     uniqueID: 1835638245
     locked: 0
-  - name: Platform
+  - name: Platforms
     uniqueID: 2760216451
     locked: 0
   - name: Enemy
